@@ -35,6 +35,7 @@ const galleryDatabase = {
   ],
 
   Apartments: [
+    "12.jpg",
     "1.jpg"
     /* Add more filenames here as you add photos */
   ],
