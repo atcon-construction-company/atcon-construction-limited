@@ -72,7 +72,9 @@ const galleryDatabase = {
   ],
 
   Ongoing: [
-    "1.jpg"
+    "1.jpg",
+    "2.jpg",
+    "3.jpg"
     /* Add your ongoing project filenames here */
   ]
 
