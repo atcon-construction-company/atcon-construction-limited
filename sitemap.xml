@@ -1,6 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-   <url>
-      <loc>https://atcon-construction-company.github.io/atcon-construction-limited/</loc>
-   </url>
+
+  <url>
+    <loc>https://atcon-construction-company.github.io/atcon-construction-limited/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://atcon-construction-company.github.io/atcon-construction-limited/about.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://atcon-construction-company.github.io/atcon-construction-limited/projects.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://atcon-construction-company.github.io/atcon-construction-limited/contact.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://atcon-construction-company.github.io/atcon-construction-limited/gallery-flat.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://atcon-construction-company.github.io/atcon-construction-limited/gallery-pitched.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://atcon-construction-company.github.io/atcon-construction-limited/gallery-hybrid.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://atcon-construction-company.github.io/atcon-construction-limited/gallery-hidden.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://atcon-construction-company.github.io/atcon-construction-limited/gallery-apartments.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://atcon-construction-company.github.io/atcon-construction-limited/gallery-ongoing.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
 </urlset>
