@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://atcon-construction-company.github.io/atcon-construction-limited/sitemap.xml
